@@ -1,14 +1,14 @@
-## Online Store
+# Online Store
 This project emulates the functionality of an online store.
 
-### Technologies Used
+#### Technologies Used
 * Python
 * Javascript
 * HTML
 * CSS
 * Web2py
 
-### Functionalities
+#### Functionalities
 * sign up/log in to account 
 * creater user profile that includes auto-generated id, name, email, and address
 * view available items to purchase
